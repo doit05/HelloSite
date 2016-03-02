@@ -1,6 +1,6 @@
-# Bee Worker
+# Hello Site
 
-是一只只的小工蜂，定时会跟蜂后要任务，并且执行后将执行结果返回给蜂后，然后等待下一次任务。
+是一一个学习网站。
 
 ## `components` 所需的工具
 
@@ -112,4 +112,3 @@ git tag pk-xx.xx.xx
 git push origin --tags
 
 ```
-
